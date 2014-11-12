@@ -1,4 +1,4 @@
-android-graphics-depot
+Android Graphics Depot
 ======================
 
 Android Graphics Depot
